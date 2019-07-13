@@ -1,0 +1,38 @@
+html {
+  box-sizing: border-box;
+  margin: auto;
+  background: #8d99ae;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0
+}
+
+h1, h2{
+  font-family: 'Caveat', cursive;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 80px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 40px;
+  margin-top: 0;
+}
+
+a {
+  color: #EF233C;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
